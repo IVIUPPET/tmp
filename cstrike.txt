@@ -1,0 +1,7 @@
+mp_limitteams 0
+mp_auoteambalance 0
+mp_warmumptime 150
+mp_maxmoney 16000
+put in quotes not ''
+
+bind p "mp_limitteams 0; mp_aute etc"
